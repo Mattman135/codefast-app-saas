@@ -4,7 +4,7 @@ import Image from "next/image"
 import productDemo from "@/app/productDemo.jpeg"
 
 export default function Home() {
-  // här kan jag sätta variabel namn om jag vill och exempelvis sätta in i props.
+  // här kan jag sätta variabel namn om jag vill och exempelvis sätta in i props. testing
   const isLoggedIn = true
   const name = "Mattis"
 
